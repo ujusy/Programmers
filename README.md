@@ -12,7 +12,7 @@
 
 **파이썬을 파이썬 답게 사용할 수 있도록 배운 점 정리**
 
-[몫과 나머지(#https://github.com/ujusy/Programmers/blob/master/%5BPYTHON%5DMap%20%ED%95%A8%EC%88%98%20%EC%9D%91%EC%9A%A9%ED%95%98%EA%B8%B0.md)
+[몫과 나머지](#https://github.com/ujusy/Programmers/blob/master/%5BPYTHON%5DMap%20%ED%95%A8%EC%88%98%20%EC%9D%91%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 
 [N 진법으로 표기된 String을 10진법 숫자로 변환하기 - Int 함수](#[https://github.com/ujusy/Programmers/blob/master/%5BPYTHON%5DN%20%EC%A7%84%EB%B2%95%EC%9C%BC%EB%A1%9C%20%ED%91%9C%EA%B8%B0%EB%90%9C%20String%EC%9D%84%2010%EC%A7%84%EB%B2%95%20%EC%88%AB%EC%9E%90%EB%A1%9C%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0%20-Int%20%ED%95%A8%EC%88%98.md](https://github.com/ujusy/Programmers/blob/master/[PYTHON]N 진법으로 표기된 String을 10진법 숫자로 변환하기 -Int 함수.md))
 
