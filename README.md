@@ -28,4 +28,4 @@
 
 [Map함수 응용하기](https://github.com/ujusy/Programmers/blob/master/%5BPYTHON%5DMap%20%ED%95%A8%EC%88%98%20%EC%9D%91%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 
-[Sequence로 이어붙이기]()
+[Sequence로 이어붙이기](https://github.com/ujusy/Programmers/blob/master/%5BPYTHON%5D%20Sequence%20%EB%A9%A4%EB%B2%84%EB%A5%BC%20%ED%95%98%EB%82%98%EB%A1%9C%20%EC%9D%B4%EC%96%B4%EB%B6%99%EC%9D%B4%EA%B8%B0-join.md)
