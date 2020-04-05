@@ -2,7 +2,7 @@
 
 -----------
 
-![image-20200310160117599](/Users/uju_sy/Library/Application Support/typora-user-images/image-20200310160117599.png)
+<img width="664" alt="image-20200310160117599" src="https://user-images.githubusercontent.com/49120090/78502026-e1c97780-7799-11ea-9f21-6ccc68419b81.png">
 
 
 
