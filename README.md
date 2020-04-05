@@ -33,3 +33,5 @@
 [삼각형 별 찍기](https://github.com/ujusy/Programmers/blob/master/%5BPYTHON%5D%EC%82%BC%EA%B0%81%ED%98%95%20%EB%B3%84%EC%B0%8D%EA%B8%B0.md)
 
 [곱집합 구하기](https://github.com/ujusy/Programmers/blob/master/%5BPYTHON%5D%EA%B3%B1%EC%A7%91%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0%20-product.md)
+
+[2차원 리스트를 1차원 리스트로 만들기](https://github.com/ujusy/Programmers/blob/master/%5BPYTHON%5D2%EC%B0%A8%EC%9B%90%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC%201%EC%B0%A8%EC%9B%90%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
