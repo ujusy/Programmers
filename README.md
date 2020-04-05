@@ -30,5 +30,5 @@
 
 [Sequence로 이어붙이기](https://github.com/ujusy/Programmers/blob/master/%5BPYTHON%5D%20Sequence%20%EB%A9%A4%EB%B2%84%EB%A5%BC%20%ED%95%98%EB%82%98%EB%A1%9C%20%EC%9D%B4%EC%96%B4%EB%B6%99%EC%9D%B4%EA%B8%B0-join.md)
 
-[삼각형 별 찍기](https://github.com/ujusy/Programmers/blob/master/%5BPYTHON%5D%EC%82%BC%EA%B0%81%ED%98%95%20%EB%B3%84%EC%B0%8D%EA%B8%B0.md
-[Sequence로 이어붙이기](https://github.com/ujusy/Programmers/blob/master/%5BPYTHON%5D%20Sequence%20%EB%A9%A4%EB%B2%84%EB%A5%BC%20%ED%95%98%EB%82%98%EB%A1%9C%20%EC%9D%B4%EC%96%B4%EB%B6%99%EC%9D%B4%EA%B8%B0-join.md)
+[삼각형 별 찍기](https://github.com/ujusy/Programmers/blob/master/%5BPYTHON%5D%EC%82%BC%EA%B0%81%ED%98%95%20%EB%B3%84%EC%B0%8D%EA%B8%B0.md)
+
