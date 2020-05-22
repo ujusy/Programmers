@@ -36,11 +36,11 @@
 
 [2차원 리스트를 1차원 리스트로 만들기](https://github.com/ujusy/Programmers/blob/master/%5BPYTHON%5D2%EC%B0%A8%EC%9B%90%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC%201%EC%B0%A8%EC%9B%90%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
 
-[for문과 if문을 한번에-list comprehension]([https://github.com/ujusy/Programmers/blob/master/%5BPYTHON%5Dfor%20%EB%AC%B8%EA%B3%BC%20if%EB%AC%B8%EC%9D%84%20%ED%95%9C%EB%B2%88%EC%97%90.md](https://github.com/ujusy/Programmers/blob/master/[PYTHON]for 문과 if문을 한번에.md))
+[for문과 if문을 한번에-list comprehension](https://github.com/ujusy/Programmers/blob/master/%5BPYTHON%5Dfor%20%EB%AC%B8%EA%B3%BC%20if%EB%AC%B8%EC%9D%84%20%ED%95%9C%EB%B2%88%EC%97%90.md)
 
-[가장 많이 등장하는 알파벳 찾기 - counter]([https://github.com/ujusy/Programmers/blob/master/%5BPYTHON%5D%EA%B0%80%EC%9E%A5%20%EB%A7%8E%EC%9D%B4%20%EB%93%B1%EC%9E%A5%ED%95%98%EB%8A%94%20%EC%95%8C%ED%8C%8C%EB%B2%B3%20%EC%B0%BE%EA%B8%B0.md](https://github.com/ujusy/Programmers/blob/master/[PYTHON]가장 많이 등장하는 알파벳 찾기.md))
+[가장 많이 등장하는 알파벳 찾기 - counter](https://github.com/ujusy/Programmers/blob/master/%5BPYTHON%5D%EA%B0%80%EC%9E%A5%20%EB%A7%8E%EC%9D%B4%20%EB%93%B1%EC%9E%A5%ED%95%98%EB%8A%94%20%EC%95%8C%ED%8C%8C%EB%B2%B3%20%EC%B0%BE%EA%B8%B0.md)
 
-[이진 탐색하기-bisect]([https://github.com/ujusy/Programmers/blob/master/%5BPYTHON%5D%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89%ED%95%98%EA%B8%B0%20.md](https://github.com/ujusy/Programmers/blob/master/[PYTHON]이진 탐색하기 .md))
+[이진 탐색하기-bisect](https://github.com/ujusy/Programmers/blob/master/%5BPYTHON%5D%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89%ED%95%98%EA%B8%B0%20.md)
 
 
 
@@ -52,5 +52,6 @@
 
 ### 1. SELECT 
 
->[동물의 아이디와 이름]([https://github.com/ujusy/Programmers/blob/master/SQL/SELECT-%EB%8F%99%EB%AC%BC%EC%9D%98%20%EC%95%84%EC%9D%B4%EB%94%94%EC%99%80%20%EC%9D%B4%EB%A6%84.md](https://github.com/ujusy/Programmers/blob/master/SQL/SELECT-동물의 아이디와 이름.md))
+>[동물의 아이디와 이름](https://github.com/ujusy/Programmers/blob/master/SQL/SELECT-%EB%8F%99%EB%AC%BC%EC%9D%98%20%EC%95%84%EC%9D%B4%EB%94%94%EC%99%80%20%EC%9D%B4%EB%A6%84.md)
 
+ㄴ
